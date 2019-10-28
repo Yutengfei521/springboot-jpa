@@ -7,6 +7,7 @@ import javax.persistence.Id;
 
 /**
  * 这是第一次上传git修改
+ * 这是第二个测试
  */
 @Entity
 public class Person {
